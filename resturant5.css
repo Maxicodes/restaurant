@@ -1,0 +1,107 @@
+body {
+    background-color: black;
+    background-image: url(restpic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: blanchedalmond;
+    margin-left: 20px;
+    font-size: 50px;
+    margin-top: 10px;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+mark {
+    color: rgb(247, 35, 20);
+    font-size: 150px;
+    background-color: black;
+    font-family: Tahoma, sans-serif;
+    text-shadow: 0 0 2px rgb(168, 156, 156);
+    
+}
+
+
+details {
+    color: rgb(203, 240, 186);
+    min-width: 80px;
+    padding: 5em 5em 0;
+    top: 30px;
+    left: 400px;
+    font-size: large;
+    font-style: italic;
+}
+
+.nav {
+    font-family: Verdana, sans-serif;
+    min-width: 60px;
+    min-height: 100px;
+    line-height: 140px;
+    font-weight: lighter;
+    font-size: 60px;
+    list-style: none;
+    display: flex;
+    top: -150px;
+    margin-left: 70px;
+}
+
+.services, .orders {
+    color: coral;
+    min-width: 80px;
+    min-height: 70px;
+    margin-left: 70px;
+    line-height: 90px;
+    font-size: xx-large;
+}
+
+a {  
+    font-weight: lighter;
+    color: rgb(14, 110, 201);
+    list-style: none;
+}
+
+a:link {  
+    color: rgb(15, 201, 77);
+}
+
+a:visited {
+      color: blue; 
+    }
+
+
+a:active { 
+    color: aquamarine;  
+    background-color:rgb(207, 39, 9);
+    }
+
+.location {
+    color: rgb(248, 237, 138);
+    min-width: 100px;
+    min-height: 30px;
+    line-height: 20px;
+    font-size: 30px;
+}
+
+/*.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3b5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55acee;
+    color: white;
+}*/ 
